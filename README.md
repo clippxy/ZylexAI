@@ -48,7 +48,7 @@ open index.html
 zylex/
 ├── index.html       # Main application entry point
 ├── README.md        # Project documentation
-└── LICENSE          # MIT License
+└── LICENSE          # License
 ```
 
 ---
