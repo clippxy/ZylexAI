@@ -31,7 +31,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/zylex.git
+git clone https://github.com/your-org/zylexai.git
 
 # Navigate into the project
 cd zylex
